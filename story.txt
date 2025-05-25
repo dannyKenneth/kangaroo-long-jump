@@ -1,0 +1,67 @@
+| You are an 9 month joey (baby kangaroo) who has just left your mother's pouch to become independant.
+| Your job is to survive as long as possible. You cna do so by jumping to get food and avoid obstacles.
+| You will gain energy every time you succesfuly jump. You gain more power every time you level up.
+| Good luck.
+| What is your name? 
+| So your name is {}?
+| Now you need to choose a kangaroo that you want to use in the game.
+| The Western Grey Kangaroo:
+| Stage 1 - Power: 30.0, Health: 4, Hunger: 3
+| Stage 2 - Power: 40.0, Health: 6, Hunger: 5
+| Stage 3 - Power: 50.0, Health: 7, Hunger: 6 
+| Continue >
+| The Eastern Grey Kangaroo:
+| Stage 1 - Power: 42.0, Health: 6, Hunger: 4
+| Stage 2 - Power: 58.0, Health: 8, Hunger: 6
+| Stage 3 - Power: 70.0, Health: 10, Hunger: 7
+| Continue >
+| The Antilopine Kangaroo:
+| Stage 1 - Power: 36.0, Health: 5, Hunger: 4
+| Stage 2 - Power: 50.0, Health: 7, Hunger: 5
+| Stage 3 - Power: 60.0, Health: 8, Hunger: 6
+| Continue >
+| The Red Kangaroo:
+| Stage 1 - Power: 50.0, Health: 7, Hunger 5
+| Stage 2 - Power: 70.0, Health: 10, Hunger: 7
+| Stage 3 - Power: 85.0, Health: 12, Hunger: 8
+| Continue >
+| To choose The Western Grey Kangaroo, type 'Western Grey Kangaroo
+| To choose The Eastern Grey Kangaroo, type 'Eastern Grey Kangaroo
+| To choose The Antilopine Kangaroo, type 'Antilopine Kangaroo
+| To choose The Red Kangaroo, type 'Red Kangaroo
+| You see food about {}m ahead.
+| You will need to choose the angle you want to jump in to catch the food based on a list of angles.
+| If you need a hint, type 'hint' where you're supposed to input the angle. There are 2 hints.
+| Here is your first hint: To reach the farthest distance, you need to use a 45 degree angle.
+| Use the equation: angle = sin^-1((distance * g) / power) 
+| You've used up all your hints.
+| You see an obstacle ahead coming towards you. It is about {}m away.
+| If you need help, you can use hints by typing 'hint'. You have 2 hints.
+| Use the equation: angle = sin^-1((distance * g) / power)
+| If you still can't figure out the angle, use 45, this will guarantee a win, but won't give you a higher score sometimes.
+| You've used up all your hints.
+| Nothing happened this time. Better luck next time!
+| Jump distance too far for current power.
+| Choose between the following options:
+| Congratulations! YOu have guessed the correct angle!
+| Oh no! It looks like you weren't able to catch the food. Better luck next time!
+| What angle will you jump from? (0 - 45)
+| Congratulations! You safely passed the obstacle!
+| Your distance from the object is {}m!
+| Your current high score is {}.
+| Uh oh. It looks liked you weren't able to pass the obstacle in time. You lost 1 HP.
+| You will regain health if you successfuly jump to get food.
+| Comgratulations! You have reached level 6!
+| Your total power has increased to {},
+| health has increased to {} and
+| hunger has increased to {}!
+| Comgratulations! You have reached level 9!
+| Congratulations! You have leveled up to level {}!
+Game Over. You ran out of health. Your High Score: {}
+| This is an extra action section. You can save and/or exit here.
+| To save, type 'save'. To exit, type 'exit'. Type 'delete' to erase your data. Don't type anything to continue.
+| Are you sure you want to exit. Make sure you save your progress if you haven't yet!
+| Y|N
+| Are you sure you want to delete your data. This aciton is ireversible.
+| Y|N
+You exited the game. Your High Score: {}
